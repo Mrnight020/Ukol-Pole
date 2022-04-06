@@ -1,0 +1,10 @@
+M:\ITB2\smikmatorj.04\programování\Start C Sharp --------------------------------------------\POLE -------------------------\Pole test\Pole test\bin\Debug\Pole test.exe.config
+M:\ITB2\smikmatorj.04\programování\Start C Sharp --------------------------------------------\POLE -------------------------\Pole test\Pole test\bin\Debug\Pole test.exe
+M:\ITB2\smikmatorj.04\programování\Start C Sharp --------------------------------------------\POLE -------------------------\Pole test\Pole test\bin\Debug\Pole test.pdb
+M:\ITB2\smikmatorj.04\programování\Start C Sharp --------------------------------------------\POLE -------------------------\Pole test\Pole test\obj\Debug\Pole test.csprojAssemblyReference.cache
+M:\ITB2\smikmatorj.04\programování\Start C Sharp --------------------------------------------\POLE -------------------------\Pole test\Pole test\obj\Debug\Pole_test.Properties.Resources.resources
+M:\ITB2\smikmatorj.04\programování\Start C Sharp --------------------------------------------\POLE -------------------------\Pole test\Pole test\obj\Debug\Pole test.csproj.GenerateResource.cache
+M:\ITB2\smikmatorj.04\programování\Start C Sharp --------------------------------------------\POLE -------------------------\Pole test\Pole test\obj\Debug\Pole test.csproj.CoreCompileInputs.cache
+M:\ITB2\smikmatorj.04\programování\Start C Sharp --------------------------------------------\POLE -------------------------\Pole test\Pole test\obj\Debug\Pole test.exe
+M:\ITB2\smikmatorj.04\programování\Start C Sharp --------------------------------------------\POLE -------------------------\Pole test\Pole test\obj\Debug\Pole test.pdb
+M:\ITB2\smikmatorj.04\programování\Start C Sharp --------------------------------------------\POLE -------------------------\Pole test\Pole test\obj\Debug\Pole_test.Form1.resources
